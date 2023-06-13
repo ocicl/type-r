@@ -1,0 +1,10 @@
+* type-r
+
+The complete collection of accessor functions and patterns to access the elements in a compound type specifier
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/type-r.git   |
+| commit  | 83c89e3  |
+| systems | type-r |
+|---------+-------------------------------------------|
+
